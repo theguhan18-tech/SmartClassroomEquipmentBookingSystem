@@ -1,0 +1,6 @@
+{
+  "name": "Smart Classroom Equipment Booking System",
+  "description": "Centralized web-based MERN platform for students, faculty, and administrators to browse, check real-time availability, book, and manage smart classroom and laboratory equipment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
